@@ -1,0 +1,15 @@
+{
+  "name": "wma-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://general260.github.io/wmawebsite",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
